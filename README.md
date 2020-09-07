@@ -4,4 +4,4 @@ Most of the code heavily borrowed from https://github.com/mightydeveloper/Deep-C
 
 The configurations and running steps are referred to https://github.com/mightydeveloper/Deep-Compression-PyTorch
 
-This code extended the unstructured conv transformation, which can conducted compression for linear and convolution layers. More construction such as Resnet and Darknet can be compressed by this code.
+This code has been extended for the unstructured convolution transformation, which can conducted compression for linear and convolution layers. More construction such as Resnet and Darknet can be compressed by this code.
