@@ -1,5 +1,5 @@
-Saving the compressed BIAS and BIN files
-eg:
+Saving the compressed BIAS and BIN files\\
+eg:\\
 conv1.bias
 conv1.weight_csc_data.bin
 conv1.weight_csc_data_codebook.bin
